@@ -2,6 +2,12 @@
 
 ---
 
+
+npm install
+npm run dll (DllPlugin 构建, 只需要执行一次生成manifest.json配置文件就行)
+npm run dev (本地开发)
+npm run build (生产环境打包)
+
 ### npm run dll (打包一次变不在需要打包了)
 ### npm run dev 本地开发
 ### npm run build 打包
